@@ -12,4 +12,5 @@ build/
 .idea/
 *.swp
 *~
+places/settings.py
 settings.py
